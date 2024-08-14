@@ -1,0 +1,42 @@
+Number of Coil(s): 2
+Output Folder(relative path): ./example/
+****ALL UNITS IN CM AND RADIANS***
+--------------------------------------------
+X-shift: 0
+Y-Shift: 0
+Z-shift: 0
+Initial Radius: 10
+Pitch/Coil Progression: 1
+Turns per Layer: 1
+Segments per Turn: 50
+Layers: 1
+Distance between Layers: 0
+Cross Section Type (circular or rectangular): circular
+Cross Sectional Wire Radius: 0.1
+Cross Sectional Wire Height: 0
+Cross Sectional Wire Width: 0
+Spiral Direction (right_hand or left_hand): right_hand
+Will Layers be turning in the same or opposite directions (same or opposite): opposite
+Rotation about X-axis: 0
+Rotation about Y-axis: 0
+Rotation about Z-axis/Phase shift: 0
+--------------------------------------------
+X-shift: 0
+Y-Shift: 0
+Z-shift: 5
+Initial Radius: 10
+Pitch/Coil Progression: 1
+Turns per Layer: 1
+Segments per Turn: 50
+Layers: 1
+Distance between Layers: 0
+Cross Section Type (circular or rectangular): circular
+Cross Sectional Wire Radius: 0.1
+Cross Sectional Wire Height: 0
+Cross Sectional Wire Width: 0
+Spiral Direction (right_hand or left_hand): right_hand
+Will Layers be turning in the same or opposite directions (same or opposite): opposite
+Rotation about X-axis: 0
+Rotation about Y-axis: 0
+Rotation about Z-axis/Phase shift: 0
+--------------------------------------------
