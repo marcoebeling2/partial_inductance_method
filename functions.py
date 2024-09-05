@@ -592,25 +592,25 @@ def any_desired_position(A, B, a, b) :
 
     if min_one == Aa :
         # do nothing
-        sign = -1
+        sign = 1
     elif min_one == Bb :
         # flip them
-        A, B, a, b = B, A, b, A
-        sign = -1
+        A, B, a, b = B, A, b, a
+        sign = 1
     elif min_one == Ab :
         # flim a and b
         a, b = b, a
-        sign = 1
+        sign = -1
     elif min_one == Ba :
         # flip A and B
         A, B = B, A
-        sign = 1
+        sign = -1
     
     # recalculate...
-    R1 = np.linalg.norm(Bb)
-    R2 = np.linalg.norm(Ba)
-    R3 = np.linalg.norm(Aa)
-    R4 = np.linalg.norm(Ab)
+    R1 = np.linalg.norm(B - b)
+    R2 = np.linalg.norm(B - a)
+    R3 = np.linalg.norm(A - a)
+    R4 = np.linalg.norm(A - b)
     l = np.linalg.norm(B - A)
     m = np.linalg.norm(b - a)
 
