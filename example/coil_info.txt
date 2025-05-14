@@ -1,0 +1,213 @@
+Number of Coil(s): 11
+            Output Folder(relative path): ./z_matrix_out/35mm/
+            ****ALL UNITS IN MM AND RADIANS***
+            --------------------------------------------
+            Type: Planar Rectangular Spiral
+            X-shift: 0
+            Y-Shift: 0
+            Z-shift: -36.67
+            Inner Radius: 15.4
+            Gap: 0.2
+            Cross Sectional Wire Height: 0.035
+            Cross Sectional Wire Width: 1
+            Turns per Layer: 4
+            Layers: 2
+            Distance between Layers: 1.6
+            Rotation about X-axis: 0
+            Rotation about Y-axis: 0
+            Rotation about Z-axis/Phase shift: 0
+            Name: Reciever
+            Frequency (MHz): 7
+            Material Relative Conductivity: 1
+            Save info: [filename to save]
+            --------------------------------------------
+            Type: Planar Rectangular Spiral
+            X-shift: 0
+            Y-Shift: 0
+            Z-shift: 7.17
+            Inner Radius: 4.2
+            Gap: 0.2
+            Cross Sectional Wire Height: 0.035
+            Cross Sectional Wire Width: 1
+            Turns per Layer: 5
+            Layers: 2
+            Distance between Layers: 1.6
+            Rotation about X-axis: 0
+            Rotation about Y-axis: 0
+            Rotation about Z-axis/Phase shift: 0
+            Name: Transmitter (35 mm away)
+            Frequency (MHz): 7
+            Material Relative Conductivity: 1
+            Save info: [filename to save]
+            --------------------------------------------
+            Type: Planar Rectangular Spiral
+            X-shift: -13.33
+            Y-Shift: 13.33
+            Z-shift: 0
+            Inner Radius: 3.065
+            Gap: 0.2
+            Cross Sectional Wire Height: 0.035
+            Cross Sectional Wire Width: 1
+            Turns per Layer: 3
+            Layers: 2
+            Distance between Layers: 1.6
+            Rotation about X-axis: 0
+            Rotation about Y-axis: 0
+            Rotation about Z-axis/Phase shift: 0
+            Name: Meta 1
+            Frequency (MHz): 7
+            Material Relative Conductivity: 1
+            Save info: [filename to save]
+            --------------------------------------------
+            Type: Planar Rectangular Spiral
+            X-shift: 0
+            Y-Shift: 13.33
+            Z-shift: 0
+            Inner Radius: 3.065
+            Gap: 0.2
+            Cross Sectional Wire Height: 0.035
+            Cross Sectional Wire Width: 1
+            Turns per Layer: 3
+            Layers: 2
+            Distance between Layers: 1.6
+            Rotation about X-axis: 0
+            Rotation about Y-axis: 0
+            Rotation about Z-axis/Phase shift: 0
+            Name: Meta 2
+            Frequency (MHz): 7
+            Material Relative Conductivity: 1
+            Save info: [filename to save]
+            --------------------------------------------
+            Type: Planar Rectangular Spiral
+            X-shift: 13.33
+            Y-Shift: 13.33
+            Z-shift: 0
+            Inner Radius: 3.065
+            Gap: 0.2
+            Cross Sectional Wire Height: 0.035
+            Cross Sectional Wire Width: 1
+            Turns per Layer: 3
+            Layers: 2
+            Distance between Layers: 1.6
+            Rotation about X-axis: 0
+            Rotation about Y-axis: 0
+            Rotation about Z-axis/Phase shift: 0
+            Name: Meta 3
+            Frequency (MHz): 7
+            Material Relative Conductivity: 1
+            Save info: [filename to save]
+            --------------------------------------------
+            Type: Planar Rectangular Spiral
+            X-shift: -13.33
+            Y-Shift: 0
+            Z-shift: 0
+            Inner Radius: 3.065
+            Gap: 0.2
+            Cross Sectional Wire Height: 0.035
+            Cross Sectional Wire Width: 1
+            Turns per Layer: 3
+            Layers: 2
+            Distance between Layers: 1.6
+            Rotation about X-axis: 0
+            Rotation about Y-axis: 0
+            Rotation about Z-axis/Phase shift: 0
+            Name: Meta 4
+            Frequency (MHz): 7
+            Material Relative Conductivity: 1
+            Save info: [filename to save]
+            --------------------------------------------
+            Type: Planar Rectangular Spiral
+            X-shift: 0
+            Y-Shift: 0
+            Z-shift: 0
+            Inner Radius: 3.065
+            Gap: 0.2
+            Cross Sectional Wire Height: 0.035
+            Cross Sectional Wire Width: 1
+            Turns per Layer: 3
+            Layers: 2
+            Distance between Layers: 1.6
+            Rotation about X-axis: 0
+            Rotation about Y-axis: 0
+            Rotation about Z-axis/Phase shift: 0
+            Name: Meta 5
+            Frequency (MHz): 7
+            Material Relative Conductivity: 1
+            Save info: [filename to save]
+            --------------------------------------------
+            Type: Planar Rectangular Spiral
+            X-shift: 13.33
+            Y-Shift: 0
+            Z-shift: 0
+            Inner Radius: 3.065
+            Gap: 0.2
+            Cross Sectional Wire Height: 0.035
+            Cross Sectional Wire Width: 1
+            Turns per Layer: 3
+            Layers: 2
+            Distance between Layers: 1.6
+            Rotation about X-axis: 0
+            Rotation about Y-axis: 0
+            Rotation about Z-axis/Phase shift: 0
+            Name: Meta 6
+            Frequency (MHz): 7
+            Material Relative Conductivity: 1
+            Save info: [filename to save]
+            --------------------------------------------
+            Type: Planar Rectangular Spiral
+            X-shift: -13.33
+            Y-Shift: -13.33
+            Z-shift: 0
+            Inner Radius: 3.065
+            Gap: 0.2
+            Cross Sectional Wire Height: 0.035
+            Cross Sectional Wire Width: 1
+            Turns per Layer: 3
+            Layers: 2
+            Distance between Layers: 1.6
+            Rotation about X-axis: 0
+            Rotation about Y-axis: 0
+            Rotation about Z-axis/Phase shift: 0
+            Name: Meta 7
+            Frequency (MHz): 7
+            Material Relative Conductivity: 1
+            Save info: [filename to save]
+            --------------------------------------------
+            Type: Planar Rectangular Spiral
+            X-shift: 0
+            Y-Shift: -13.33
+            Z-shift: 0
+            Inner Radius: 3.065
+            Gap: 0.2
+            Cross Sectional Wire Height: 0.035
+            Cross Sectional Wire Width: 1
+            Turns per Layer: 3
+            Layers: 2
+            Distance between Layers: 1.6
+            Rotation about X-axis: 0
+            Rotation about Y-axis: 0
+            Rotation about Z-axis/Phase shift: 0
+            Name: Meta 8
+            Frequency (MHz): 7
+            Material Relative Conductivity: 1
+            Save info: [filename to save]
+            --------------------------------------------
+            Type: Planar Rectangular Spiral
+            X-shift: 13.33
+            Y-Shift: -13.33
+            Z-shift: 0
+            Inner Radius: 3.065
+            Gap: 0.2
+            Cross Sectional Wire Height: 0.035
+            Cross Sectional Wire Width: 1
+            Turns per Layer: 3
+            Layers: 2
+            Distance between Layers: 1.6
+            Rotation about X-axis: 0
+            Rotation about Y-axis: 0
+            Rotation about Z-axis/Phase shift: 0
+            Name: Meta 9
+            Frequency (MHz): 7
+            Material Relative Conductivity: 1
+            Save info: [filename to save]
+            --------------------------------------------
